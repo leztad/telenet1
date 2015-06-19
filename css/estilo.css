@@ -1,0 +1,18 @@
+.registros{
+	margin:auto;
+	width:1000px;
+	margin-top:20px;
+	border:1px solid #6F96DF;
+	height:auto;
+	padding:10px;
+}
+.comp1{
+	width: 200px;
+	max-width: 200px;
+	table-layout:fixed;
+}
+.parrafo{
+width: 200px;
+max-width:200px;
+word-wrap: break-word;
+}
